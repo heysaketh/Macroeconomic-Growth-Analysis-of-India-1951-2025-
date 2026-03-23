@@ -44,8 +44,6 @@ The dataset was transformed from wide report format into analytical long-format 
 ## Dashboard Features
 
 - Comparison of consumption, investment, and GDP growth cycles  
-- Real vs nominal growth divergence analysis  
-- Identification of high-growth and slowdown regimes  
 - External sector growth trend visualisation  
 - Long-term macroeconomic volatility patterns  
 
